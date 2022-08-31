@@ -1,0 +1,21 @@
+{
+  "name": "quote-site",
+  "version": "1.0.0",
+  "description": "This site is created with the sole aim to motivate the author of the site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "motivation"
+  ],
+  "author": "EDOZIE JOHNPAUL UZOMA",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.2",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "request": "^2.88.2"
+  }
+}

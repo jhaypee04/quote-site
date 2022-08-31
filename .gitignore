@@ -1,0 +1,7 @@
+# Dependencies
+node_modules/
+
+# test.js
+
+# dotenv environment variable files
+.env
